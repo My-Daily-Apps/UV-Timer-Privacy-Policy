@@ -32,7 +32,6 @@ All data is stored:
 
 - **Locally on your device only**
 - No cloud storage or external servers
-- No data sharing with third parties
 - Data is deleted when you uninstall the app
 
 ## Third-Party Services
