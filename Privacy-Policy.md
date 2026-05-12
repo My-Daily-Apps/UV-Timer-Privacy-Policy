@@ -1,6 +1,6 @@
 # UV Timer Privacy Policy
 
-**Last updated: 2025**
+**Last updated: May 2026**
 
 ## Data Collection
 
@@ -11,6 +11,7 @@ UV Timer collects the following data to provide personalized UV protection:
 - App preferences (skin type, timer settings, theme mode) stored locally
 - Search queries for location search functionality
 - Altitude data for mountain/altitude calculations
+- Timer session history (start time, planned duration, end reason, skin type) stored locally for           personalized features
 - **No personal information, names, email addresses, or contact details**
 
 ## Data Usage
@@ -62,6 +63,7 @@ How to delete your data:
 - Select "I do not consent" in the consent screen
 - Clear app data in device settings
 - Remove saved locations individually in the app
+- Clear timer history via Settings → About → Clear sun history
 
 ## Children's Privacy
 
@@ -87,6 +89,8 @@ How long your data is kept:
 - **Location data**: Not stored, only used for API requests
 - **App preferences**: Stored locally until app uninstall
 - **Saved locations**: Stored locally until manually deleted or app uninstall
+- **Timer history**: Stored locally until manually cleared via Settings → About →
+    Clear sun history, or until app uninstall
 - **Search queries**: Not stored, only used for API requests
 - No data is retained after app deletion
 
