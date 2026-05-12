@@ -7,8 +7,7 @@
 UV Timer collects the following data to provide personalized UV protection:
 
 - Location coordinates (latitude/longitude) for UV index calculation
-- GPS location for current position and saved locations (Android: up to 10
-  saved locations. iOS: 3 free plus optional location packs)
+- GPS location for current position and saved locations
 - App preferences (skin type, timer settings, theme mode) stored locally
 - Search queries for location search functionality
 - Altitude data for mountain/altitude calculations
